@@ -9,7 +9,7 @@ Why Robotics? Well, I just love the balance of multidisciplinary skillset it dem
 With an academic background at Worcester Polytechnic Institute (WPI) and hands-on experience at cutting-edge labs, I've got to engage working in the intersections of Planning, control, Sensor fusion and Vision based manipulation. 
 
 #### Research at WPI
-- Engaged in pioneering research at WPI's Manipulation & Environmental Robotics Lab, spearheading developments in robot scrap cutting. I am implementing active vision algorithms and real time velocity control for the oxy-acetylene cutting operation. This has also led me to experiment with novel inverse kinematics and planning algorithms.  
+- Engaged in pioneering research at WPI's [Manipulation & Environmental Robotics Lab](https://wp.wpi.edu/merlab/), spearheading developments in robot scrap cutting. I am implementing active vision algorithms and real time velocity control for the oxy-acetylene cutting operation. This has also led me to experiment with novel inverse kinematics and planning algorithms. Advised by [Prof. Berk Calli](https://berkcalli.com/)
 
 ## Past Experiences 
 
@@ -17,7 +17,7 @@ With an academic background at Worcester Polytechnic Institute (WPI) and hands-o
 - As a Software Engineer at Bosch, I started with Engine Control Unit (ECU) Software Integration and Cybersecurity. I later moved on to the role of Production coordinator, collaborating with different teams like Software, Hardware, Calibration and Production plants.
 
 #### @ Indian Institute of Science
-- I interned at ARTPARK, Indian Institute of Science and worked on Localization and Sensor fusion.
+- I interned at [ARTPARK](https://artpark.in/), Indian Institute of Science and worked on Localization and Sensor fusion.
 
 ## 🔭 Currently Exploring ...
 - Experimenting with advanced planning algorithms for next-gen robotic manipulators
