@@ -28,7 +28,7 @@ With an academic background at Worcester Polytechnic Institute (WPI) and hands-o
 - Reinforcement learning applications in manipulation for adaptive behavior
 - Computer Vision, Deep Learning for applications in Autonomous driving and flight
 
-## 📸 Hobbies & Fun Facts
+
 When not immersed in the world of robotics, I indulge in:
 - 🚴‍♂️ Cycling adventures exploring new trails
 - 📚 Reading [Kannada](https://en.wikipedia.org/wiki/Kannada) novels
