@@ -4,7 +4,7 @@ Welcome to my space, where I blend the worlds of robotics, software engineering,
 
 ## 🤖 Robotics Enthusiast
 I'm a Robotics Engineer diving deep into the realm of intelligent machines, driven by a passion for exploring new horizons in this evolving field. 
-Why Robotics? Well, I just love the balance of multidisciplinary skillset and the adrenaline rush it fills you up when stuff finally Works!! 
+Why Robotics? Well, I just love the balance of multidisciplinary skillset it demands and the adrenaline rush it fills you up when stuff finally Works!! 
 
 With an academic background at Worcester Polytechnic Institute (WPI) and hands-on experience at cutting-edge labs, I've got to engage working in the intersections of Planning, control, Sensor fusion and Vision based manipulation. 
 
