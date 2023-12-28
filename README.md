@@ -14,7 +14,7 @@ With an academic background at Worcester Polytechnic Institute (WPI) and hands-o
 
 <div style="display: flex; justify-content: center;">
     <img src="https://github.com/atreyabhat/atreyabhat/assets/39030188/84eaa637-7ad7-44d2-b5a1-2a8ef7f178bb" alt="wpi_logo" width="130" height="130" style="margin-right: 20px;">
-    <img src="https://github.com/atreyabhat/atreyabhat/assets/39030188/25a2d719-cf2f-44d3-918d-88bae1bf82b4" alt="logo" width="170" height="200">
+    <img src="https://github.com/atreyabhat/atreyabhat/assets/39030188/25a2d719-cf2f-44d3-918d-88bae1bf82b4" alt="logo" width="160" height="200">
 </div>
 
 ## Past Experiences 
