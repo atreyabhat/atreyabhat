@@ -14,10 +14,10 @@ With an academic background at Worcester Polytechnic Institute (WPI) and hands-o
 ## Past Experiences 
 
 #### @ Bosch
-- As a Software Engineer at Bosch, I started with Engine Control Unit (ECU) Software Integration and Cybersecurity. I later moved on to the role of Production coordinator, collaborating with different teams like Software, Hardware, Calibration and Production plants.
+- As a Software Engineer at Bosch, I started with Engine Control Unit (ECU) Software Integration. I later moved on to the role of ECU Production coordinator, collaborating with different teams like Software, Hardware, Calibration and Production plants. Also gained experience with Cybersecurity in automotive embedded devices.
 
 #### @ Indian Institute of Science
-- I interned at [ARTPARK](https://artpark.in/), Indian Institute of Science and worked on Localization and Sensor fusion.
+- I have worked at [ARTPARK](https://artpark.in/), Indian Institute of Science on Localization and Sensor fusion.
 
 ## 🔭 Currently Exploring ...
 - Experimenting with advanced planning algorithms for next-gen robotic manipulators
@@ -26,7 +26,31 @@ With an academic background at Worcester Polytechnic Institute (WPI) and hands-o
 
 ## 🌱 Constantly Learning
 - Reinforcement learning applications in manipulation for adaptive behavior
-- Computer Vision, Deep Learning for applications in Autonomous driving and flight
+- Computer Vision and Deep Learning
+
+
+## 🔬 Projects I have worked on
+
+### Planning with Learned-Sampling distributions
+[Github](https://github.com/atreyabhat/LearnedSampling_CVAE/tree/main) - Dec 2023
+Developed an Encoder-Decoder network to learn sampling distributions, enhancing efficiency in motion planning.
+
+### UAV Interception: Control & Trajectory Optimization
+[GitHub](https://github.com/atreyabhat/UAV-Interception) - Dec 2023
+Implemented and simulated a quadrotor with LQR control to approach and capture a UAV in 3D space.
+
+### Multi-Pose Object Pick and Place Robotic Arm
+[Link](https://drive.google.com/file/d/1LRGVmkzXYezZlSfqbuO5ebVDnbXRpKTM/view?usp=sharing) - 2021
+Developed a robotic arm for grasping objects in different 2D poses and tracking moving targets in 3D space.
+
+### Autonomous UV Sanitizing and Surveillance Rover
+[GitHub](https://github.com/atreyabhat/Aruco-Detector-and-Follower/tree/main) - 2020
+
+
+## Publications
+
+### Arecanut Tree-Climbing and Pesticide Spraying Robot with servo controlled nozzle
+IEEE Global Conference for Advancement in Technology. [doi: 10.1109/GCAT47503.2019](https://doi.org/10.1109/GCAT47503.2019.8978452)
 
 
 When not immersed in the world of robotics, I indulge in:
