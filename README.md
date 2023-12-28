@@ -13,12 +13,8 @@ With an academic background at Worcester Polytechnic Institute (WPI) and hands-o
 - Engaged in pioneering research at WPI's [Manipulation & Environmental Robotics Lab](https://wp.wpi.edu/merlab/), spearheading developments in robot scrap cutting. I am implementing active vision algorithms and real time velocity control for the oxy-acetylene cutting operation. This has also led me to experiment with novel inverse kinematics and planning algorithms. Advised by [Prof. Berk Calli](https://berkcalli.com/)
 
 <div style="display: flex; justify-content: center;">
-    <div>
         <img src="https://github.com/atreyabhat/atreyabhat/assets/39030188/84eaa637-7ad7-44d2-b5a1-2a8ef7f178bb" alt="wpi_logo" width="130" height="130">
-    </div>
-    <div>
         <img src="https://github.com/atreyabhat/atreyabhat/assets/39030188/25a2d719-cf2f-44d3-918d-88bae1bf82b4" alt="logo" width="170" height="200">
-    </div>
 </div>
 
 ## Past Experiences 
