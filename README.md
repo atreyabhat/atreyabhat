@@ -29,27 +29,24 @@ With an academic background at Worcester Polytechnic Institute (WPI) and hands-o
 - Computer Vision and Deep Learning
 
 
-## 🔬 Projects I have worked on
+## 🔬 Ideas that worked - 
 
-### Planning with Learned-Sampling distributions
-[Github](https://github.com/atreyabhat/LearnedSampling_CVAE/tree/main) - Dec 2023
+### Planning with Learned-Sampling distributions [Github](https://github.com/atreyabhat/LearnedSampling_CVAE/tree/main) - 2023
 Developed an Encoder-Decoder network to learn sampling distributions, enhancing efficiency in motion planning.
 
-### UAV Interception: Control & Trajectory Optimization
-[GitHub](https://github.com/atreyabhat/UAV-Interception) - Dec 2023
-Implemented and simulated a quadrotor with LQR control to approach and capture a UAV in 3D space.
+### UAV Interception: Control & Trajectory Optimization [GitHub](https://github.com/atreyabhat/UAV-Interception) - 2023
+Implemented and simulated a quadrotor with LQR control to approach and capture a UAV in 3D space. 
 
-### Multi-Pose Object Pick and Place Robotic Arm
-[Link](https://drive.google.com/file/d/1LRGVmkzXYezZlSfqbuO5ebVDnbXRpKTM/view?usp=sharing) - 2021
-Developed a robotic arm for grasping objects in different 2D poses and tracking moving targets in 3D space.
+### Multi-Pose Object Pick and Place Robotic Arm [Link](https://drive.google.com/file/d/1LRGVmkzXYezZlSfqbuO5ebVDnbXRpKTM/view?usp=sharing) - 2021
+Developed a robotic arm for grasping objects in different 2D poses and tracking moving targets in 3D space. An interesting approach without 3D camera but with a handeye configuration with a TimeOfFlight sensor to measure target distance for grasping. 
 
-### Autonomous UV Sanitizing and Surveillance Rover
-[GitHub](https://github.com/atreyabhat/Aruco-Detector-and-Follower/tree/main) - 2020
+### Autonomous UV Sanitizing and Surveillance Rover [GitHub](https://github.com/atreyabhat/Aruco-Detector-and-Follower/tree/main) - 2020
+Simulated a custom robot to move between multiple AruCo marker checkpoints with dynamic obstacle avoidance without a Lidar. Proposed to be used for COVID care centers.
 
 
 ## Publications
 
-### Arecanut Tree-Climbing and Pesticide Spraying Robot with servo controlled nozzle
+### Arecanut Tree-Climbing and Pesticide Spraying Robot with servo controlled nozzle - 2019
 IEEE Global Conference for Advancement in Technology. [doi: 10.1109/GCAT47503.2019](https://doi.org/10.1109/GCAT47503.2019.8978452)
 
 
@@ -57,6 +54,7 @@ When not immersed in the world of robotics, I indulge in:
 - 🚴‍♂️ Cycling adventures exploring new trails
 - 📚 Reading [Kannada](https://en.wikipedia.org/wiki/Kannada) novels
 - 📷 Capturing moments
+- ✨ Stargazing and Astrophotography
 
 ## 💬 Let's Talk!
 Feel free to reach out to discuss robotics, AI or anything related to the fascinating world of silicon intelligence. 
