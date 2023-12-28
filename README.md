@@ -53,8 +53,7 @@ IEEE Global Conference for Advancement in Technology. [doi: 10.1109/GCAT47503.20
 
 When not immersed in the world of robotics, I indulge in:
 - 🚴‍♂️ Cycling adventures exploring new trails
-- 📚 Reading [Kannada](https://en.wikipedia.org/wiki/Kannada) novels
-- 📷 Capturing moments
+- 📚 Reading
 - ✨ Stargazing and Astrophotography
 
 ## 💬 Let's Talk!
