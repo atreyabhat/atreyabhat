@@ -49,6 +49,7 @@ Simulated a custom robot to move between multiple AruCo marker checkpoints with 
 ### Arecanut Tree-Climbing and Pesticide Spraying Robot with servo controlled nozzle - 2019
 IEEE Global Conference for Advancement in Technology. [doi: 10.1109/GCAT47503.2019](https://doi.org/10.1109/GCAT47503.2019.8978452)
 
+##
 
 When not immersed in the world of robotics, I indulge in:
 - 🚴‍♂️ Cycling adventures exploring new trails
