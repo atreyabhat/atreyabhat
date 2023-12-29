@@ -2,7 +2,7 @@
 
 Welcome to my space, where I blend the worlds of robotics, software engineering, and innovation. Let me give you a glimpse of what I'm up to!
 
-## 🤖 Robotics Enthusiast
+## 🤖 About Me
 I'm a Robotics Engineer diving deep into the realm of intelligent machines, driven by a passion for exploring new horizons in this evolving field. 
 Why Robotics? Well, I just love the balance of multidisciplinary skill set it demands and the adrenaline rush it fills you up with when stuff finally works!
 
