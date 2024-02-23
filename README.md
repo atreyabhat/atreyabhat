@@ -8,7 +8,7 @@ I'm Atreya Bhat, a Robotics Engineer on a mission to unlock the potential of int
 With a background from Worcester Polytechnic Institute (WPI) and hands-on experience from leading labs, I've delved into the intersections of planning, control, learning, and vision-based manipulation.
 
 #### Research at WPI
-- At WPI's [Manipulation & Environmental Robotics Lab](https://wp.wpi.edu/merlab/), I'm at the forefront of developing cutting-edge solutions for robot scrap cutting. From refining active vision algorithms to exploring deep reinforcement learning for oxy-acetylene cutting, it's a journey of innovation. Mentored by [Prof. Berk Calli](https://berkcalli.com/)
+- At WPI's [Manipulation & Environmental Robotics Lab](https://wp.wpi.edu/merlab/), I'm at the forefront of developing cutting-edge solutions for robot scrap cutting. I am developing active vision algorithms both classical and based on Deep reinforcement learning to obtain multiple viewpoints for feature reconstruction to aid in the next step of oxy-acetylene cutting. Mentored by [Prof. Berk Calli](https://berkcalli.com/)
 
 
 ## Past Experiences 
