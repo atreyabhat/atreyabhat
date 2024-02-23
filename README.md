@@ -1,16 +1,14 @@
-# Atreya Bhat
+# Atreya Bhat's Corner
 
-Welcome to my space, where I blend the worlds of robotics, software engineering, and innovation. Let me give you a glimpse of what I'm up to!
+Welcome to my digital abode, where I fuse the realms of robotics, software engineering, and innovation. Here's a sneak peek into my world!
 
 ## 🤖 About Me
-I'm a Robotics Engineer diving deep into the realm of intelligent machines, driven by a passion for exploring new horizons in this evolving field. 
-Why Robotics? Well, I just love the balance of multidisciplinary skill set it demands and the adrenaline rush it fills you up with when stuff finally works!
+I'm Atreya Bhat, a Robotics Engineer on a mission to unlock the potential of intelligent machines. What draws me to robotics? It's the perfect blend of diverse skills and the exhilaration of seeing ideas come to life!
 
-With an academic background at Worcester Polytechnic Institute (WPI) and hands-on experience at cutting-edge labs, I've engaged in work at the intersections of planning, control, sensor fusion, and vision-based manipulation. 
-
+With a background from Worcester Polytechnic Institute (WPI) and hands-on experience from leading labs, I've delved into the intersections of planning, control, learning, and vision-based manipulation.
 
 #### Research at WPI
-- Engaged in pioneering research at WPI's [Manipulation & Environmental Robotics Lab](https://wp.wpi.edu/merlab/), spearheading developments in robot scrap cutting. I am implementing active vision algorithms and real-time velocity control for the oxy-acetylene cutting operation. This has also led me to experiment with novel inverse kinematics and planning algorithms. Advised by [Prof. Berk Calli](https://berkcalli.com/)
+- At WPI's [Manipulation & Environmental Robotics Lab](https://wp.wpi.edu/merlab/), I'm at the forefront of developing cutting-edge solutions for robot scrap cutting. From refining active vision algorithms to exploring deep reinforcement learning for oxy-acetylene cutting, it's a journey of innovation. Mentored by [Prof. Berk Calli](https://berkcalli.com/)
 
 <div style="display: flex; justify-content: center;">
     <img src="https://github.com/atreyabhat/atreyabhat/assets/39030188/84eaa637-7ad7-44d2-b5a1-2a8ef7f178bb" alt="wpi_logo" width="130" height="130" style="margin-right: 20px;">
@@ -20,50 +18,42 @@ With an academic background at Worcester Polytechnic Institute (WPI) and hands-o
 ## Past Experiences 
 
 #### @ Bosch
-- As a Software Engineer at Bosch, I started with Engine Control Unit (ECU) Software Integration. I later moved on to the role of ECU Production coordinator, collaborating with different teams like Software, Hardware, Calibration, and Production plants. Also gained experience with Cybersecurity in automotive embedded devices.
+- At Bosch, I kicked off with ECU Software Integration and later transitioned to the role of ECU Production Coordinator. My journey involved collaborating across teams to implement and test cybersecurity features for ECUs.
 
 #### @ Indian Institute of Science
-- I have worked at [ARTPARK](https://artpark.in/), Indian Institute of Science on Localization and Sensor fusion.
+- My stint at [ARTPARK](https://artpark.in/), Indian Institute of Science focused on Localization and Sensor Fusion.
 
-## 🔭 Currently Exploring ...
-- Experimenting with advanced planning algorithms for next-gen robotic manipulators
-- Learning and improving active vision algorithms
+## 🌱 Constant Learning
+- Exploring reinforcement learning applications in manipulation for adaptive behavior.
+- Diving deeper into computer vision and deep learning.
 
+## 🔬 Successful Projects
 
-## 🌱 Constantly Learning
-- Reinforcement learning applications in manipulation for adaptive behavior
-- Computer Vision and Deep Learning
-
-
-## 🔬 Ideas that worked - 
-
-### Planning with Learned-Sampling distributions [Github](https://github.com/atreyabhat/LearnedSampling_CVAE/tree/main) - 2023
-Developed an Encoder-Decoder network to learn sampling distributions, enhancing efficiency in motion planning.
+### Planning with Learned-Sampling Distributions [GitHub](https://github.com/atreyabhat/LearnedSampling_CVAE/tree/main) - 2023
+Developed an Encoder-Decoder network to optimize motion planning by learning sampling distributions.
 
 ### UAV Interception: Control & Trajectory Optimization [GitHub](https://github.com/atreyabhat/UAV-Interception) - 2023
-Implemented and simulated a quadrotor with LQR control to approach and capture a UAV in 3D space. 
+Simulated and implemented LQR control on a quadrotor to capture a UAV in 3D space.
 
 ### Multi-Pose Object Pick and Place Robotic Arm [Link](https://drive.google.com/file/d/1LRGVmkzXYezZlSfqbuO5ebVDnbXRpKTM/view?usp=sharing) - 2021
-Developed a robotic arm for grasping objects in different 2D poses and tracking moving targets in 3D space. An interesting approach without a 3D camera but with a hand-eye configuration using a TimeOfFlight sensor to measure target distance for grasping. 
+Designed a robotic arm capable of grasping objects in various 2D poses and tracking moving targets in 3D space using innovative hand-eye configuration.
 
 ### Autonomous UV Sanitizing and Surveillance Rover [GitHub](https://github.com/atreyabhat/Aruco-Detector-and-Follower/tree/main) - 2020
-Simulated a custom robot to move between multiple AruCo marker checkpoints with dynamic obstacle avoidance without a Lidar. Proposed to be used for COVID care centers.
-
+Developed a custom robot equipped with dynamic obstacle avoidance for moving between AruCo marker checkpoints, proposed for COVID care centers.
 
 ## Publications
 
-### Arecanut Tree-Climbing and Pesticide Spraying Robot with servo-controlled nozzle - 2019
-IEEE Global Conference for Advancement in Technology. [doi: 10.1109/GCAT47503.2019](https://doi.org/10.1109/GCAT47503.2019.8978452)
+### Arecanut Tree-Climbing and Pesticide Spraying Robot with Servo-controlled Nozzle - 2019
+Published at the IEEE Global Conference for Advancement in Technology. [doi: 10.1109/GCAT47503.2019](https://doi.org/10.1109/GCAT47503.2019.8978452)
 
 ##
 
-When not immersed in the world of robotics, I indulge in:
-- 🚴‍♂️ Cycling adventures exploring new trails
-- 📚 Reading
+When not immersed in the world of robotics, I enjoy:
+- 🚴‍♂️ Exploring new trails on my bike
+- 📚 Getting lost in a good book
 - ✨ Stargazing and Astrophotography
 
-## 💬 Let's Talk!
-Feel free to reach out to discuss robotics, AI, or anything related to the fascinating world of silicon intelligence. 
-You can connect with me on [LinkedIn](https://linkedin.com/in/atreya-bhat) or drop me an [email](mailto:agbhat@wpi.edu).
+## 💬 Let's Connect!
+Have an idea to share or want to discuss robotics and AI? Reach out to me on [LinkedIn](https://linkedin.com/in/atreya-bhat) or shoot me an [email](mailto:agbhat@wpi.edu).
 
 <!-- Feel free to add more sections, projects, or details as per your liking! -->
