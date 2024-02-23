@@ -10,14 +10,6 @@ With a background from Worcester Polytechnic Institute (WPI) and hands-on experi
 #### Research at WPI
 - At WPI's [Manipulation & Environmental Robotics Lab](https://wp.wpi.edu/merlab/), I'm at the forefront of developing cutting-edge solutions for robot scrap cutting. From refining active vision algorithms to exploring deep reinforcement learning for oxy-acetylene cutting, it's a journey of innovation. Mentored by [Prof. Berk Calli](https://berkcalli.com/)
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-    <img src="https://github.com/atreyabhat/atreyabhat/assets/39030188/84eaa637-7ad7-44d2-b5a1-2a8ef7f178bb" alt="wpi_logo" width="104" height="104">
-    <img src="https://github.com/atreyabhat/atreyabhat/assets/39030188/25a2d719-cf2f-44d3-918d-88bae1bf82b4" alt="logo" width="96" height="104">
-    <img src="https://github.com/atreyabhat/atreyabhat/assets/39030188/7106b9c6-5304-464c-9960-f826dbd09132" alt="bosch" width="112" height="104">
-    <img src="https://github.com/atreyabhat/atreyabhat/assets/39030188/0bd30e01-4ca6-4021-9610-a56368da7960" alt="iisc" width="128" height="104">
-</div>
-
-
 
 ## Past Experiences 
 
@@ -27,7 +19,16 @@ With a background from Worcester Polytechnic Institute (WPI) and hands-on experi
 #### @ Indian Institute of Science
 - My stint at [ARTPARK](https://artpark.in/), Indian Institute of Science focused on Localization and Sensor Fusion.
 
-## 🌱 Constant Learning
+
+<div style="display: flex; justify-content: space-between; align-items: center;">
+    <img src="https://github.com/atreyabhat/atreyabhat/assets/39030188/84eaa637-7ad7-44d2-b5a1-2a8ef7f178bb" alt="wpi_logo" width="104" height="104">
+    <img src="https://github.com/atreyabhat/atreyabhat/assets/39030188/25a2d719-cf2f-44d3-918d-88bae1bf82b4" alt="logo" width="96" height="104">
+    <img src="https://github.com/atreyabhat/atreyabhat/assets/39030188/7106b9c6-5304-464c-9960-f826dbd09132" alt="bosch" width="112" height="104">
+    <img src="https://github.com/atreyabhat/atreyabhat/assets/39030188/0bd30e01-4ca6-4021-9610-a56368da7960" alt="iisc" width="128" height="104">
+</div>
+
+
+## 🌱 Constantly Learning
 - Exploring reinforcement learning applications in manipulation for adaptive behavior.
 - Diving deeper into computer vision and deep learning.
 
