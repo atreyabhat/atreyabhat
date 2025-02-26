@@ -56,6 +56,7 @@ I was involved in **real-time ECU software integration**, working on **CI/CD pip
 [![](https://visitcount.itsvg.in/api?id=atreyabhat&icon=0&color=1)](https://visitcount.itsvg.in)
 
 
-## To see the world, things dangerous to come to, to see behind walls, draw closer, to find each other, and to feel. That is the purpose of life. - The Secret Life of Walter Mitty
+> **"To see the world, things dangerous to come to, to see behind walls, draw closer, to find each other, and to feel. That is the purpose of life."**  
+> — *The Secret Life of Walter Mitty*
 
 
