@@ -10,6 +10,13 @@ I worked on **sensor fusion for localization**, implementing **Extended Kalman F
 ### 🏢 Bosch  
 I was involved in **real-time ECU software integration**, working on **CI/CD pipelines, cybersecurity enhancements, and automated testing** for **embedded automotive systems**. My work included **flashing sequences, CAN configurations, and productivity improvements through automation**.  
 
+<div style="display: flex; justify-content: space-between; align-items: center;">
+    <img src="https://github.com/atreyabhat/atreyabhat/assets/39030188/84eaa637-7ad7-44d2-b5a1-2a8ef7f178bb" alt="wpi_logo" width="104" height="104">
+    <img src="https://github.com/atreyabhat/atreyabhat/assets/39030188/25a2d719-cf2f-44d3-918d-88bae1bf82b4" alt="logo" width="96" height="104">
+    <img src="https://github.com/atreyabhat/atreyabhat/assets/39030188/7106b9c6-5304-464c-9960-f826dbd09132" alt="bosch" width="112" height="104">
+    <img src="https://github.com/atreyabhat/atreyabhat/assets/39030188/0bd30e01-4ca6-4021-9610-a56368da7960" alt="iisc" width="128" height="104">
+</div>
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/atreya-bhat/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:agbhat@wpi.edu) 
 
