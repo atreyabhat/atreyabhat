@@ -48,7 +48,8 @@ I was involved in **real-time ECU software integration**, working on **CI/CD pip
 - Developed a **real-time object grasping system** for **moving conveyors** integrating **object detection, tracking, grasp synthesis, and execution**.  
 - Evaluated system performance against **noise, clutter, and conveyor speed** using the **YCB dataset**.
 
-### 🔹 **3D Scene Reconstruction & Camera Pose Estimation** | 📅 July 2024  
+### 🔹 **3D Scene Reconstruction & Camera Pose Estimation** | 
+📅 July 2024  
 - Built a **Structure from Motion (SfM) pipeline** for **dense point clouds** and **robust camera pose estimation** on **ETH 3D and custom datasets**.  
 - Implemented **Neural Radiance Fields (NeRF)** for **high-quality scene reconstruction and novel view synthesis**.
 
