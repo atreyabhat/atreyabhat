@@ -14,7 +14,7 @@ I research **Active Vision using Deep Reinforcement Learning**, developing a nov
 
 ### 🏢 ARTPARK, Indian Institute of Science (IISc)  
 I worked on **sensor fusion for localization**, implementing **Extended Kalman Filters** to integrate data from **LIDAR, GPS, IMU, and encoders**, validated on the **KITTI dataset**.  
-![Uploading image.png…]()
+
 
 ### 🏢 Bosch  
 I was involved in **real-time ECU software integration**, working on **CI/CD pipelines, cybersecurity enhancements, and automated testing** for **embedded automotive systems**. My work included **flashing sequences, CAN configurations, and productivity improvements through automation**.  
