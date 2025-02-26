@@ -1,64 +1,78 @@
-# Atreya Bhat's Corner
+# 💫 About Me:
+I am a robotics and embedded systems engineer specializing in intelligent autonomy for mobile robots and manipulators. My work focuses on AI-driven learning, motion planning, and computer vision, bridging research with real-world applications.<br><br>
 
-Welcome to my digital abode, where I fuse the realms of robotics, software engineering, and innovation. Here's a sneak peek into my world!
+@ **Worcester Polytechnic Institute (WPI)**, I research **Active Vision using Deep Reinforcement Learning**, developing methods for **viewpoint selection and feature-driven exploration** to enhance robotic perception and manipulation. **Advised by Prof. Berk Calli.**<br><br>
 
-## 🤖 About Me
-I'm Atreya Bhat, a Robotics Engineer on a mission to unlock the potential of intelligent machines. What draws me to robotics? It's the perfect blend of diverse skills and the exhilaration of seeing ideas come to life!
+@ **ARTPARK, Indian Institute of Science (IISc)**, I worked on **sensor fusion for localization**, implementing **Extended Kalman Filters** to integrate data from **LIDAR, GPS, IMU, and encoders**, validated on the **KITTI dataset**.<br><br>
 
-With a background from Worcester Polytechnic Institute (WPI) and hands-on experience from leading labs, I've delved into the intersections of planning, control, learning, and vision-based manipulation.
+@ **Bosch**, I was involved in **real-time ECU software integration**, working on **CI/CD pipelines, cybersecurity enhancements, and automated testing** for embedded automotive systems. My work included **flashing sequences, CAN configurations, and productivity improvements through automation**.
 
-#### Research at WPI
-- At WPI's [Manipulation & Environmental Robotics Lab](https://wp.wpi.edu/merlab/), I'm at the forefront of developing cutting-edge solutions for robot scrap cutting. I am developing active vision algorithms both classical and based on Deep reinforcement learning to obtain multiple viewpoints for feature reconstruction to aid in the next step of oxy-acetylene cutting. Mentored by [Prof. Berk Calli](https://berkcalli.com/)
+---
+
+## 🚀 My Work:
+
+### 🔹 **Vision-Language Action (VLA) based task planning (In Progress)**  
+📅 2025  
+- Integrating **Reinforcement Learning** with **semantic scene understanding** to **generate task-oriented robotic actions** with VLA and RL based Motor Control.  
+- Simulating in **Isaac Sim**.
+
+### 🔹 **LLM-Powered Contextual Navigation Framework**  
+🔗 [GitHub](#) | 📅 Jan 2025  
+- Developed an **LLM-RAG pipeline** integrated with **ROS2’s Nav2** for **object retrieval** based on natural language prompts.  
+- Maintains a **dynamically updated database** to support **context-aware navigation** on a **TurtleBot**, leveraging **Groq-Llama API** and **LangChain**.
+
+### 🔹 **Robotic Manipulation for Sorting on Conveyors**  
+🔗 [GitHub](#) | 📅 Dec 2024  
+- Developed a **real-time object grasping system** for **moving conveyors** integrating **object detection, tracking, grasp synthesis, and execution**.  
+- Evaluated system performance against **noise, clutter, and conveyor speed** using the **YCB dataset**.
+
+### 🔹 **3D Scene Reconstruction & Camera Pose Estimation**  
+📅 July 2024  
+- Built a **Structure from Motion (SfM) pipeline** for **dense point clouds** and **robust camera pose estimation** on **ETH 3D and custom datasets**.  
+- Implemented **Neural Radiance Fields (NeRF)** for **high-quality scene reconstruction and novel view synthesis**.
+
+### 🔹 **Real-time Traffic Detection & Tracking**  
+🔗 [GitHub](#) | 📅 July 2024  
+- Designed a **YOLO-DeepSort pipeline** for **real-time pedestrian and vehicle tracking** at **morphed zebra crossings**.
+
+### 🔹 **Planning with Learned-Sampling Distributions**  
+🔗 [GitHub](#) | 📅 Dec 2023  
+- Developed a **Conditional Variational Autoencoder (CVAE) model** to **learn sampling distributions**, enhancing **motion planning efficiency** over classical methods.  
+- Generated extensive training data using **OMPL**.
+
+### 🔹 **UAV Interception: Control & Trajectory Optimization**  
+🔗 [GitHub](#) | 📅 Dec 2023  
+- Implemented an **LQR-controlled quadrotor** to **intercept and capture a UAV in 3D space**.  
+- Modeled **UAV dynamics**, implemented **trajectory optimization**, and fine-tuned **controller performance**.
 
 
-## Past Experiences 
+---
 
-#### @ Bosch
-- At Bosch, I kicked off with ECU Software Integration and later transitioned to the role of ECU Production Coordinator. My journey involved collaborating across teams to implement and test cybersecurity features for ECUs.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atreya-bhat/) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:agbhat@wpi.edu) 
 
-#### @ Indian Institute of Science
-- My stint at [ARTPARK](https://artpark.in/), Indian Institute of Science focused on Localization and Sensor Fusion.
+---
 
+## 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
+![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white) 
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
+![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-    <img src="https://github.com/atreyabhat/atreyabhat/assets/39030188/84eaa637-7ad7-44d2-b5a1-2a8ef7f178bb" alt="wpi_logo" width="104" height="104">
-    <img src="https://github.com/atreyabhat/atreyabhat/assets/39030188/25a2d719-cf2f-44d3-918d-88bae1bf82b4" alt="logo" width="96" height="104">
-    <img src="https://github.com/atreyabhat/atreyabhat/assets/39030188/7106b9c6-5304-464c-9960-f826dbd09132" alt="bosch" width="112" height="104">
-    <img src="https://github.com/atreyabhat/atreyabhat/assets/39030188/0bd30e01-4ca6-4021-9610-a56368da7960" alt="iisc" width="128" height="104">
-</div>
+---
 
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=atreyabhat&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=atreyabhat&theme=nightowl&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=atreyabhat&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-## 🌱 Constantly Learning
-- Exploring reinforcement learning applications in manipulation for adaptive behavior.
-- Diving deeper into computer vision and deep learning.
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=atreyabhat&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-## 🔬 Successful Projects
+---
 
-### Planning with Learned-Sampling Distributions [GitHub](https://github.com/atreyabhat/LearnedSampling_CVAE/tree/main) - 2023
-Developed an Encoder-Decoder network to optimize motion planning by learning sampling distributions.
+[![](https://visitcount.itsvg.in/api?id=atreyabhat&icon=0&color=1)](https://visitcount.itsvg.in)
 
-### UAV Interception: Control & Trajectory Optimization [GitHub](https://github.com/atreyabhat/UAV-Interception) - 2023
-Simulated and implemented LQR control on a quadrotor to capture a UAV in 3D space.
-
-### Multi-Pose Object Pick and Place Robotic Arm [Link](https://drive.google.com/file/d/1LRGVmkzXYezZlSfqbuO5ebVDnbXRpKTM/view?usp=sharing) - 2021
-Designed a robotic arm capable of grasping objects in various 2D poses and tracking moving targets in 3D space using innovative hand-eye configuration.
-
-### Autonomous UV Sanitizing and Surveillance Rover [GitHub](https://github.com/atreyabhat/Aruco-Detector-and-Follower/tree/main) - 2020
-Developed a custom robot equipped with dynamic obstacle avoidance for moving between AruCo marker checkpoints, proposed for COVID care centers.
-
-## Publications
-
-### Arecanut Tree-Climbing and Pesticide Spraying Robot with Servo-controlled Nozzle - 2019
-Published at the IEEE Global Conference for Advancement in Technology. [doi: 10.1109/GCAT47503.2019](https://doi.org/10.1109/GCAT47503.2019.8978452)
-
-##
-
-When not immersed in the world of robotics, I enjoy:
-- 🚴‍♂️ Exploring new trails on my bike
-- 📚 Getting lost in a good book
-- ✨ Stargazing and Astrophotography
-
-## 💬 Let's Connect!
-Have an idea to share or want to discuss robotics and AI? Reach out to me on [LinkedIn](https://linkedin.com/in/atreya-bhat) or shoot me an [email](mailto:agbhat@wpi.edu).
-
-<!-- Feel free to add more sections, projects, or details as per your liking! -->
