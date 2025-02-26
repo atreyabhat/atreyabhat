@@ -13,7 +13,7 @@ I was involved in **real-time ECU software integration**, working on **CI/CD pip
 
 ## 🚀 Projects:
 ### 🔹 **LLM-Powered Contextual Navigation Framework**  
-🔗 [[GitHub](https://github.com/atreyabhat/LLM-RAG-Navigation)] | 📅 Jan 2025  
+🔗 [[GitHub](https://github.com/atreyabhat/LLM-RAG-Navigation)] | [[Video](https://youtu.be/1EVOrdFPW4Q)] | 📅 Jan 2025  
 - Developed an **LLM-RAG pipeline** integrated with **ROS2’s Nav2** for **object retrieval** based on natural language prompts.  
 - Maintains a **dynamically updated database** to support **context-aware navigation** on a **TurtleBot**, leveraging **Groq-Llama API** and **LangChain**.
 
