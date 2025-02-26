@@ -17,12 +17,12 @@ for **embedded automotive systems**. My work included **flashing sequences, CAN 
 
 ## 🚀 Projects:
 ### 🔹 **LLM-Powered Contextual Navigation Framework**  
-🔗 [[GitHub](https://github.com/atreyabhat/LLM-RAG-Navigation)](#) | 📅 Jan 2025  
+🔗 [[GitHub](https://github.com/atreyabhat/LLM-RAG-Navigation)] | 📅 Jan 2025  
 - Developed an **LLM-RAG pipeline** integrated with **ROS2’s Nav2** for **object retrieval** based on natural language prompts.  
 - Maintains a **dynamically updated database** to support **context-aware navigation** on a **TurtleBot**, leveraging **Groq-Llama API** and **LangChain**.
 
 ### 🔹 **Robotic Manipulation for Sorting on Conveyors**  
-🔗 [[GitHub](https://github.com/atreyabhat/ConveyorGrasp)](#) | 📅 Dec 2024  
+🔗 [[GitHub](https://github.com/atreyabhat/ConveyorGrasp)] | 📅 Dec 2024  
 - Developed a **real-time object grasping system** for **moving conveyors** integrating **object detection, tracking, grasp synthesis, and execution**.  
 - Evaluated system performance against **noise, clutter, and conveyor speed** using the **YCB dataset**.
 
@@ -32,16 +32,16 @@ for **embedded automotive systems**. My work included **flashing sequences, CAN 
 - Implemented **Neural Radiance Fields (NeRF)** for **high-quality scene reconstruction and novel view synthesis**.
 
 ### 🔹 **Real-time Traffic Detection & Tracking**  
-🔗 [[GitHub](https://github.com/atreyabhat/RBE-ComputerVision/tree/main/Week9/Assignment)](#) | 📅 July 2024  
+🔗 [[GitHub](https://github.com/atreyabhat/RBE-ComputerVision/tree/main/Week9/Assignment)] | 📅 July 2024  
 - Designed a **YOLO-DeepSort pipeline** for **real-time pedestrian and vehicle tracking** at **morphed zebra crossings**.
 
 ### 🔹 **Planning with Learned-Sampling Distributions**  
-🔗 [[GitHub](https://github.com/atreyabhat/LearnedSampling_CVAE)](#) | 📅 Dec 2023  
+🔗 [[GitHub](https://github.com/atreyabhat/LearnedSampling_CVAE)] | 📅 Dec 2023  
 - Developed a **Conditional Variational Autoencoder (CVAE) model** to **learn sampling distributions**, enhancing **motion planning efficiency** over classical methods.  
 - Generated extensive training data using **OMPL**.
 
 ### 🔹 **UAV Interception: Control & Trajectory Optimization**  
-🔗 [[GitHub](https://github.com/atreyabhat/RBE502_UAV_Interceptor/tree/main)](#) | 📅 Dec 2023  
+🔗 [[GitHub](https://github.com/atreyabhat/RBE502_UAV_Interceptor/tree/main)] | 📅 Dec 2023  
 - Implemented an **LQR-controlled quadrotor** to **intercept and capture a UAV in 3D space**.  
 - Modeled **UAV dynamics**, implemented **trajectory optimization**, and fine-tuned **controller performance**.
 
