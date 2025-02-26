@@ -1,18 +1,14 @@
 ## 💫 About Me  
-I am a **robotics and embedded systems engineer** specializing in **intelligent autonomy** for **mobile robots and manipulators**.  
-My work focuses on **AI-driven learning, motion planning, and computer vision**, bridging **research** with **real-world applications**.  
+I am a **robotics and embedded systems engineer** specializing in **intelligent autonomy** for **mobile robots and manipulators**. My work focuses on **AI-driven learning, motion planning, and computer vision**, bridging **research** with **real-world applications**.  
 
 ### 🏫 Worcester Polytechnic Institute (WPI)  
-I research **Active Vision using Deep Reinforcement Learning**, developing methods for **viewpoint selection** and **feature-driven exploration**  
-to enhance **robotic perception and manipulation**. **Advised by Prof. Berk Calli.**  
+I research **Active Vision using Deep Reinforcement Learning**, developing methods for **viewpoint selection** and **feature-driven exploration** to enhance **robotic perception and manipulation**. **Advised by Prof. Berk Calli.**  
 
 ### 🏢 ARTPARK, Indian Institute of Science (IISc)  
-I worked on **sensor fusion for localization**, implementing **Extended Kalman Filters** to integrate data from **LIDAR, GPS, IMU, and encoders**,  
-validated on the **KITTI dataset**.  
+I worked on **sensor fusion for localization**, implementing **Extended Kalman Filters** to integrate data from **LIDAR, GPS, IMU, and encoders**, validated on the **KITTI dataset**.  
 
 ### 🏢 Bosch  
-I was involved in **real-time ECU software integration**, working on **CI/CD pipelines, cybersecurity enhancements, and automated testing**  
-for **embedded automotive systems**. My work included **flashing sequences, CAN configurations, and productivity improvements through automation**.  
+I was involved in **real-time ECU software integration**, working on **CI/CD pipelines, cybersecurity enhancements, and automated testing** for **embedded automotive systems**. My work included **flashing sequences, CAN configurations, and productivity improvements through automation**.  
 
 
 ## 🚀 Projects:
