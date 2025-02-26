@@ -9,6 +9,7 @@ I research **Active Vision using Deep Reinforcement Learning**, developing a nov
 <img src="https://github.com/user-attachments/assets/c3e8b738-ef32-4332-b265-32fcd5a1cc52" width="290" />
 <img src="https://github.com/user-attachments/assets/149d998a-d8f8-4739-a6ef-6637311cf65f" width="260" />
 
+--------------------------------------------------------------------------------------------------------------------------
 
 
 ### 🏢 ARTPARK, Indian Institute of Science (IISc)  
