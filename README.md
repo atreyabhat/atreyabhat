@@ -2,10 +2,11 @@
 I am a **robotics and embedded systems engineer** specializing in **intelligent autonomy** for **mobile robots and manipulators**. My work focuses on **AI-driven learning, motion planning, and computer vision**, bridging **research** with **real-world applications**.  
 
 ### 🏫 Worcester Polytechnic Institute (WPI)  
-I research **Active Vision using Deep Reinforcement Learning**, developing methods for **viewpoint selection** and **feature-driven exploration** to enhance **robotic perception and manipulation**. **Advised by Prof. Berk Calli.**  
-<img src="https://github.com/user-attachments/assets/452b93b6-993c-46a1-8515-da5315c76ba0" width="300" />
+I research **Active Vision using Deep Reinforcement Learning**, developing a novel system to perform **Feature Driven Exploration** of Unknown objects by optimizing **Viewpoint selection** through **RL**. **Advised by Prof. Berk Calli.**  
+
+<img src="https://github.com/user-attachments/assets/452b93b6-993c-46a1-8515-da5315c76ba0" width="350" />
+<img src="https://github.com/user-attachments/assets/a1a803b8-f891-4e99-a5a2-069b412bf65e" width="250" /> 
 <img src="https://github.com/user-attachments/assets/149d998a-d8f8-4739-a6ef-6637311cf65f" width="200" />
-<img src="https://github.com/user-attachments/assets/a1a803b8-f891-4e99-a5a2-069b412bf65e" width="250" />
 
 
 ### 🏢 ARTPARK, Indian Institute of Science (IISc)  
