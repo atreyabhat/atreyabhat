@@ -52,6 +52,10 @@ I was involved in **real-time ECU software integration**, working on **CI/CD pip
 ![](https://nirzak-streak-stats.vercel.app/?user=atreyabhat&theme=nightowl&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=atreyabhat&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
+
+
+## To see the world, things dangerous to come to, to see behind walls, draw closer, to find each other, and to feel. That is the purpose of life. - The Secret Life of Walter Mitty
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=atreyabhat&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
