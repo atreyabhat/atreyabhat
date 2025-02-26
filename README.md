@@ -18,7 +18,7 @@ I was involved in **real-time ECU software integration**, working on **CI/CD pip
 - Maintains a **dynamically updated database** to support **context-aware navigation** on a **TurtleBot**, leveraging **Groq-Llama API** and **LangChain**.
 
 ### 🔹 **Robotic Manipulation for Sorting on Conveyors**  
-🔗 [[GitHub](https://github.com/atreyabhat/ConveyorGrasp)] | 📅 Dec 2024  
+🔗 [[GitHub](https://github.com/atreyabhat/ConveyorGrasp)] | [[Video](https://youtu.be/7Dufz96CteM)] | 📅 Dec 2024  
 - Developed a **real-time object grasping system** for **moving conveyors** integrating **object detection, tracking, grasp synthesis, and execution**.  
 - Evaluated system performance against **noise, clutter, and conveyor speed** using the **YCB dataset**.
 
